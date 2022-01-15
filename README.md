@@ -2,7 +2,7 @@
 
 ## I'm a Front-end React Developer!!!
 
--  I’ve just began to participate in my first serious [project]!
+-  I just started participating in my first serious [project]!
 -  I’m self taught developer and currently learning everything 🤣
 -  I’m looking to collaborate with other developers
 -  2022 Goals: to make my way to middle front-end developer!
@@ -27,4 +27,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARTARTAS)](https://github.com/anuraghazra/github-readme-stats)
 
 [project]: https://www.defspace.io/
-[linkedin]: https://linkedin.com/in/codeSTACKr
