@@ -2,7 +2,6 @@
 
 ## I'm a Front-end React Developer!!!
 
--  I just started participating in my first serious [project]!
 -  I’m self taught developer and currently learning everything 🤣
 -  I’m looking to collaborate with other developers
 -  Goals for 2022: Become a middle front-end developer!
